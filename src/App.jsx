@@ -25,26 +25,26 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Lehlohonolo Mofula",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "@LehlohonolMofula",
+  title: "Microsoft Student Ambassador & AI Engineer",
+  email: "Lehlohonolomofula@hotmail.com",
+  gitHub: "LehlohonoloMofula",
   instagram: "LehlohonoloMofula",
   linkedIn: "LehlohonoloMofula",
   medium: "",
   twitter: "LehlonoloMofula",
-  youTube: "LehlohonoloMofula",
+  youTube: "UCT_-REAWAHRMGSmxHqQ8VUg",
 };
 
-const primaryColor = "#4E567E";
-const secondaryColor = "#D2F1E4";
+const primaryColor = "#010d1f";
+const secondaryColor = "#173b6c";
 
 const App = () => {
   return (
     <div id="main">
       <Header />
       <Home name={siteProps.name} title={siteProps.title} />
-      <About />
-      <Portfolio />
+      {/* <About /> */}
+      {/* <Portfolio /> */}
       <Footer {...siteProps} primaryColor={primaryColor} secondaryColor={secondaryColor} />
     </div>
   );

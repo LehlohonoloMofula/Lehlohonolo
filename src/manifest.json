@@ -1,0 +1,12 @@
+{
+    "name":"LehlohonoloM",
+    "short_name":"LehlonoloM",
+    "start_url": "https://lehlohonolo.web.app/",
+    "background_color": "#050d18",
+    "theme_color":"#173b6c",
+    "description": "Dr. Lehlohonolo Mofula's website",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": ".",
+    "icons": []
+}

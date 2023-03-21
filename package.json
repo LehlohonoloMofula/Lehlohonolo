@@ -21,10 +21,14 @@
     "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
   },
   "dependencies": {
+    "@parcel/service-worker": "^2.8.3",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.7.2",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@parcel/packager-raw-url": "^2.7.0",
+    "@parcel/transformer-webmanifest": "^2.7.0",
     "eslint": "^8.23.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-jsx-a11y": "^6.6.1",

@@ -23,8 +23,9 @@ const Header = () => {
     >
       <a href="#home">Home</a>
       <a href="#about">About</a>
-      <a href="#portfolio">Portfolio</a>
+      <a href="#portfolio">Media Gallery</a>
       <a href="#footer">Contact</a>
+      <a href="#footer">Corporate</a>
     </div>
   );
 };
