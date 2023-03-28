@@ -25,12 +25,12 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Lehlohonolo Mofula",
-  title: "Microsoft Student Ambassador & AI Engineer",
+  title: "Microsoft Student Ambassador",
   email: "Lehlohonolomofula@hotmail.com",
   gitHub: "LehlohonoloMofula",
   instagram: "LehlohonoloMofula",
   linkedIn: "LehlohonoloMofula",
-  medium: "",
+  medium: "lehlohonoloharrison",
   twitter: "LehlonoloMofula",
   youTube: "UCT_-REAWAHRMGSmxHqQ8VUg",
 };
