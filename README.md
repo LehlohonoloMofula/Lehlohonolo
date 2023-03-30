@@ -2,7 +2,8 @@ Lehlohonolo Mofula's web app
 
 <p>This Is a PWA site for Lehlohonolo Mofula, this site main purpose is for:
 <ol>
-<li> Online Presence 24/7.</li>
+<li>24/7 Online Presence.</li>
+<p></p>
 <li> Information Exchange.</li>
 <li> Credibility.</li>
 <li> It Cuts Costs.</li>
