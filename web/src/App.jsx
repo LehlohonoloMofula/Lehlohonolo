@@ -26,11 +26,8 @@ import "./styles.css";
 const siteProps = {
   name: "Lehlohonolo Mofula",
   title: "Microsoft Student Ambassador",
-  email: "Lehlohonolomofula@hotmail.com",
   gitHub: "LehlohonoloMofula",
-  instagram: "LehlohonoloMofula",
   linkedIn: "LehlohonoloMofula",
-  medium: "lehlohonoloharrison",
   twitter: "LehlonoloMofula",
   youTube: "UCT_-REAWAHRMGSmxHqQ8VUg",
 };
@@ -43,8 +40,8 @@ const App = () => {
     <div id="main">
       <Header />
       <Home name={siteProps.name} title={siteProps.title} />
-      {/* <About /> */}
-      {/* <Portfolio /> */}
+      <About /> 
+      <Portfolio />
       <Footer {...siteProps} primaryColor={primaryColor} secondaryColor={secondaryColor} />
     </div>
   );

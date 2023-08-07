@@ -18,6 +18,7 @@ const Header = () => {
         padding: "1rem",
         top: 0,
         width: "100vw",
+        opacity: 0.2,
         zIndex: 10,
       }}
     >
