@@ -1,10 +1,10 @@
 {
     "name":"LehlohonoloM",
     "short_name":"LehlonoloM",
-    "start_url": "https://lehlohonolo.web.app/",
+    "start_url": "https://lehlohonolomofula.azurewebsites.net/",
     "background_color": "#050d18",
     "theme_color":"#173b6c",
-    "description": "Dr. Lehlohonolo Mofula's website",
+    "description": "Lehlohonolo Mofula is an enthusiastic specialist in Data and AI, skilled in data wrangling to develop AI models. He is a holder of a Master's degree in Computer Science and Statistics from North-West University and the University of the Witwatersrand. Lehlohonolo's dedication to achieving excellence led him to secure the prestigious 'Gold: MSLA' position at Microsoft. Beyond coding, Lehlohonolo finds joy in engaging in outdoor events and participating in speaking engagements. He also volunteers his time running and attending local coding workshops, empowering the youth",
     "display": "standalone",
     "orientation": "portrait",
     "scope": ".",
